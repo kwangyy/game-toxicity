@@ -1,0 +1,56 @@
+{
+  "chat": [
+    {
+      "user": "RUR-5 ASROC",
+      "message": "disgusting",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "please",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "RUR-5 ASROC",
+      "message": "yeah neither of u are getting heals",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "heals"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "keep begging",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "give me psylock",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "psylock"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "huhu",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

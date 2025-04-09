@@ -1,0 +1,54 @@
+{
+  "chat": [
+    {
+      "user": "ANIKH",
+      "message": "So",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "just",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ANIKH",
+      "message": "What did u expected",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "DragonLuke",
+      "message": "so u as spiderman not good",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "spiderman"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "notcing",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "?",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "chat": [
+    {
+      "user": "小狗叫的最响亮",
+      "message": "did your mum get r&ped in front of you bro",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "小狗叫的最响亮",
+      "message": "cringe guy man",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

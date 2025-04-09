@@ -1,0 +1,61 @@
+{
+  "chat": [
+    {
+      "user": "aiukhgiang",
+      "message": "suc sinh",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "riival",
+      "message": "suc ya mum",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "you shut",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "riival",
+      "message": "you mom boom",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "u mom die",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "eat s h i t",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "riival",
+      "message": "CUNT HAHAHAHAHHA",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": ["cunt"],
+      "location": "Australia"
+    }
+  ]
+}
+  

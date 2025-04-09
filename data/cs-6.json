@@ -1,0 +1,38 @@
+{
+  "chat": [
+    {
+      "user": "wuannxii..",
+      "message": "nt",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Kattis",
+      "message": "gh",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "gh"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "fontannes.d.c",
+      "message": "MAKASIH BANG",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": ["MAKASIH"],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "PLANTING!",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

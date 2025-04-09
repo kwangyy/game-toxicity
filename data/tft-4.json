@@ -1,0 +1,61 @@
+{
+    "chat": [
+      {
+        "user": "riival",
+        "message": "MOM BOOM",
+        "game": "Teamfight Tactics",
+        "toxicity": true,
+        "keywords": [],
+        "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "??",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "riival",
+      "message": "BYE BYE",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "eat s h i t bla blu",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "??",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "aiukhgiang",
+      "message": "fuc  k byere",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "riival",
+      "message": ":D",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    }
+  ]
+}
+  

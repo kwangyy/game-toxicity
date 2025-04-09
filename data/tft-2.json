@@ -1,0 +1,73 @@
+{
+  "chat": [
+    {
+      "user": "darbs",
+      "message": "china man",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "Sebbie",
+      "message": "mawwww someones angwywwww",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "Sebbie",
+      "message": "maybe baby needs a nap",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "darbs",
+      "message": "is your willy small, china man",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "Sebbie",
+      "message": "lmao",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [
+        "lmao"
+      ],
+      "location": "Australia"
+    },
+    {
+      "user": "darbs",
+      "message": "did your parents get mad when you didn't become a doctor",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "Sebbie",
+      "message": "if I had one",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "Sebbie",
+      "message": "ez lmao",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [
+        "ez",
+        "lmao"
+      ],
+      "location": "Australia"
+    }
+  ]
+}

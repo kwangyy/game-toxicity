@@ -1,0 +1,36 @@
+{
+  "chat": [
+    {
+      "user": "Kattis",
+      "message": "DEFUSING!",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Kattis",
+      "message": "can we like",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Kattis",
+      "message": "start playing like a team",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Kattis",
+      "message": "y'all are not HIM",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

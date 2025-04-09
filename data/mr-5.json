@@ -1,0 +1,33 @@
+{
+  "chat": [
+    {
+      "user": "KEKPipe",
+      "message": "*** dps",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [
+        "dps"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Drekgaur",
+      "message": "*** get in and blame people?",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "KEKPipe",
+      "message": "noob dps",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [
+        "noob",
+        "dps"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

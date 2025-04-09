@@ -1,0 +1,22 @@
+{
+  "chat": [
+    {
+      "user": "Gromp'd",
+      "message": "ggwp practice spiderman",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "spiderman"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Gromp'd",
+      "message": "sorry for bad combos",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chat": [
+    {
+      "user": "Qpikcuuw",
+      "message": "gbu fk u all",
+      "game": "Counter-Strike",
+      "toxicity": true,
+      "keywords": [
+        "gbu",
+        "fk"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "fontannes.d.c",
+      "message": "hbd",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "hbd"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

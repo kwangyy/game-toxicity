@@ -1,0 +1,49 @@
+{
+  "chat": [
+    {
+      "user": "ug1ysm",
+      "message": "let me",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "please",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "for lord",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "lord"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "for lord psylocke",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "lord",
+        "psylocke"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "RUR-5 ASROC",
+      "message": "disgusting",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

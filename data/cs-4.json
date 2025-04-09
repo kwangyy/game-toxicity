@@ -1,0 +1,44 @@
+{
+  "chat": [
+    {
+      "user": "Harpoon",
+      "message": "gg",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "gg"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Insanitykiller",
+      "message": "noob",
+      "game": "Counter-Strike",
+      "toxicity": true,
+      "keywords": [
+        "noob"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "JessicaKP",
+      "message": "gg",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "gg"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "gg",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "gg"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

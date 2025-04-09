@@ -1,0 +1,30 @@
+{
+  "chat": [
+    {
+      "user": "Yokai.Raijuu",
+      "message": "yawn",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "yawn"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Yokai.Raijuu",
+      "message": "get a life lil bro",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "iszal",
+      "message": "you tell em",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

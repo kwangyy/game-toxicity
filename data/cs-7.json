@@ -1,0 +1,44 @@
+{
+  "chat": [
+    {
+      "user": "wuannxii..",
+      "message": "PLANTING!",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ráf",
+      "message": "GG",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "GG"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Qpikcuuw",
+      "message": "GG LAH MASAK ENGGA",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "GG",
+        "MASAK",
+        "ENGGA"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Kattis",
+      "message": "gg",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "gg"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

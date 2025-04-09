@@ -1,0 +1,35 @@
+{
+  "chat": [
+    {
+      "user": "haakmal",
+      "message": ":D",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "D"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "why did you switch off healer",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "switch",
+        "healer"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "you freak :D",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "freak"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

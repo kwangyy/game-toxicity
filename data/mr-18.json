@@ -1,0 +1,70 @@
+{
+  "chat": [
+    {
+      "user": "ug1ysm",
+      "message": "ewwwwwwwwwww",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "5-3",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "ew",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "ew"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "psydick",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [
+        "psydick"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "ew",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "ew"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "psydick",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [
+        "psydick"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "ug1ysm",
+      "message": "ew",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "ew"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

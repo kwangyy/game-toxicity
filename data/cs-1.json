@@ -1,0 +1,65 @@
+{
+  "chat": [
+    {
+      "user": "Wertz",
+      "message": "du ma?",
+      "game": "Counter-Strike",
+      "toxicity": true,
+      "keywords": ["du", "ma"],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "troi oi!",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": ["troi", "oi"],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Wertz",
+      "message": "how many nguyens we got in this server",
+      "game": "Counter-Strike",
+      "toxicity": true,
+      "keywords": ["nguyen"],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "có thôi lời",
+      "message": "gl hf",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "gl",
+        "hf"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Wertz",
+      "message": "over under 3.5",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "N.O.O.B.G.U.Y.",
+      "message": "We should save",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "save"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "STORM",
+      "message": "Yes",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

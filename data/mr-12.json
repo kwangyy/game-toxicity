@@ -1,0 +1,62 @@
+{
+  "chat": [
+    {
+      "user": "haakmal",
+      "message": "Need Healing! On critical health!",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "nt",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Cl1nkZ",
+      "message": "thanks bbg",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": ":D",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "gg",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "gg"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "zacharoo77",
+      "message": "what a great team",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "zacharoo77",
+      "message": "love",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

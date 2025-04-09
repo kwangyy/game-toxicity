@@ -1,0 +1,22 @@
+{
+  "chat": [
+    {
+      "user": "Artyom",
+      "message": "goat",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [
+        "goat"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "nice",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

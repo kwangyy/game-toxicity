@@ -1,0 +1,50 @@
+{
+  "chat": [
+    {
+      "user": "haakmal",
+      "message": "yo",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "dps",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "dps"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "honestly",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "imma let it slide.",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "I have spotted our enemy JEFF THE LAND SHARK!",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "JEFF",
+        "LAND",
+        "SHARK"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

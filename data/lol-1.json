@@ -1,0 +1,68 @@
+{
+  "chat": [
+    {
+      "user": "J18",
+      "message": "everything also need explanation",
+      "game": "League of Legends",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "shrive",
+      "message": "lmao",
+      "game": "League of Legends",
+      "toxicity": false,
+      "keywords": [
+        "lmao"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "shrive",
+      "message": "stfu ite dog",
+      "game": "League of Legends",
+      "toxicity": true,
+      "keywords": [
+        "ite"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "shrive",
+      "message": "im in mensa",
+      "game": "League of Legends",
+      "toxicity": false,
+      "keywords": [
+        "mensa"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "shrive",
+      "message": "?",
+      "game": "League of Legends",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "shrive",
+      "message": "low iq",
+      "game": "League of Legends",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "J18",
+      "message": "LOL",
+      "game": "League of Legends",
+      "toxicity": false,
+      "keywords": [
+        "LOL"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

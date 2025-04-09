@@ -1,0 +1,53 @@
+{
+  "chat": [
+    {
+      "user": "donuttime_456",
+      "message": "s",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Alm1ghtySosa",
+      "message": "JEFF DPS BRO",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "JEFF",
+        "DPS"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Alm1ghtySosa",
+      "message": "JEFF BETTER THAN PSYLOCK",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "JEFF",
+        "PSYLOCK"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "jeff no heals",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "jeff",
+        "heals"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "wp",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "chat": [
+    {
+      "user": "disorder",
+      "message": "yeah",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "Petrify",
+      "message": "thought so drongo",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": ["drongo"],
+      "location": "Australia"
+    },
+    {
+      "user": "Petrify",
+      "message": "griefing your own econ to grief me when you could be 9 already is 10/10 brain disorder behaviour",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [
+        "griefing",
+        "econ"
+      ],
+      "location": "Australia"
+    },
+    {
+      "user": "lagcheck",
+      "message": "im guessing it wasnt worth he wait",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Australia"
+    },
+    {
+      "user": "disorder",
+      "message": "going for ryze 3",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [
+        "ryze"
+      ],
+      "location": "Australia"
+    },
+    {
+      "user": "Petrify",
+      "message": "ryze 3 level 8 0 gold geniusmode",
+      "game": "Teamfight Tactics",
+      "toxicity": false,
+      "keywords": [
+        "ryze",
+        "gold",
+        "geniusmode"
+      ],
+      "location": "Australia"
+    },
+    {
+      "user": "Petrify",
+      "message": "well done brain disorder",
+      "game": "Teamfight Tactics",
+      "toxicity": true,
+      "keywords": [
+      ],
+      "location": "Australia"
+    }
+  ]
+}

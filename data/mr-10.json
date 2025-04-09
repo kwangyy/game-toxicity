@@ -1,0 +1,42 @@
+{
+  "chat": [
+    {
+      "user": "HilmGeo",
+      "message": "abang jik",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "RUR-5 ASROC",
+      "message": "spidey sit",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "spidey"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "RUR-5 ASROC",
+      "message": "losing 1v1 to cd??",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "losing",
+        "1v1",
+        "cd"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Nafizzzy",
+      "message": "ignore everyone on this as teammate",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

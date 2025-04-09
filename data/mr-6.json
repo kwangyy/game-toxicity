@@ -1,0 +1,25 @@
+{
+  "chat": [
+    {
+      "user": "Chuslims hater",
+      "message": "i f@king hate",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [
+        "f@king",
+        "hate"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Chuslims hater",
+      "message": "muslims",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "muslims"
+      ],
+      "location": "Southeast Asia"
+    }
+  ]
+}

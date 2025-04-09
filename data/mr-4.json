@@ -1,0 +1,40 @@
+{
+  "chat": [
+    {
+      "user": "KEKPipe",
+      "message": "cute damage",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "bigganig",
+      "message": "2k and 7k heal bruh",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "heal"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Drekgaur",
+      "message": "bad as tank less heal as heal KEKPipe",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "KEKPipe"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Drekgaur",
+      "message": "right?",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

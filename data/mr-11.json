@@ -1,0 +1,49 @@
+{
+  "chat": [
+    {
+      "user": "haakmal",
+      "message": "hawkeye",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [
+        "hawkeye"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "haakmal",
+      "message": "peeeeeeyuuuu",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "RUR-5 ASROC",
+      "message": "god damn",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Illum1ne",
+      "message": "hawkeye aimbots is free",
+      "game": "Marvel Rivals",
+      "toxicity": true,
+      "keywords": [
+        "hawkeye",
+        "aimbots"
+      ],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "RUR-5 ASROC",
+      "message": "what are these damage numbers",
+      "game": "Marvel Rivals",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "chat": [
+    {
+      "user": "ky1n",
+      "message": "????",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "interesting",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "minibot",
+      "message": "lol",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Anh Ba Chà Cố",
+      "message": "Fuck off",
+      "game": "Counter-Strike",
+      "toxicity": true,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "kwangyy",
+      "message": "???",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    },
+    {
+      "user": "Artyom",
+      "message": "ez",
+      "game": "Counter-Strike",
+      "toxicity": false,
+      "keywords": [],
+      "location": "Southeast Asia"
+    }
+  ]
+}
